@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Se Eu Conversasse com Deus</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1 {
+            color: #555;
+            text-align: center;
+        }
+        p {
+            margin: 10px 0;
+            text-align: justify;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <h1>Se Eu Conversasse com Deus</h1>
+    <p>Se eu conversasse com Deus, iria lhe perguntar:</p>
+    <p>Por que é que sofremos tanto quando se chega para amar?</p>
+    <p>Uma vez me disse um amigo que a tristeza vai embora...</p>
+    <p>E a gente tem o mundo inteiro pela frente até chegar a aurora.</p>
+    <footer>
+        &copy; 2024 Poemas Inspiradores
+    </footer>
+</body>
+</html>
